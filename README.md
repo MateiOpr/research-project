@@ -1,6 +1,6 @@
 # Research Project
 
-Scripts and datasets used for the research project **"Privacy Preservation in Event-Based Vision: Risks, Methods, and Trade-offs"**, a thesis submitted to the EEMCS Faculty, Delft University of Technology, in partial fulfilment of the requirements for the Bachelor of Computer Science and Engineering, course CSE3000 Research Project.
+Scripts and datasets used for the research project **"Privacy Preservation in Event-Based Vision: Risks, Methods, and Trade-offs"**, a thesis submitted to the EEMCS Faculty, Delft University of Technology, in partial fulfilment of the requirements for the Bachelor of Computer Science and Engineering, course CSE3000 Research Project 2026.
 
 ## Structure
 
