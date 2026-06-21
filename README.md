@@ -1,7 +1,9 @@
 
 # Research Project
 
-Scripts and datasets from a research project on facial-image privacy.
+Scripts and datasets used for the research project "Privacy Preservation in Event-Based Vision: Risks, Methods, and Trade-offs", A Thesis Submitted to EEMCS Faculty Delft University of Technology,
+In Partial Fulfilment of the Requirements
+For the Bachelor of Computer Science and Engineering for the course CSE3000 Research Projec.
 
 ## Structure
 
